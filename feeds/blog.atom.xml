@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Vijayender - Blog</title><link href="https://vijayender.github.com/" rel="alternate"></link><link href="https://vijayender.github.com/feeds/blog.atom.xml" rel="self"></link><id>https://vijayender.github.com/</id><updated>2017-08-21T16:04:00+05:30</updated><entry><title>Initial Commit</title><link href="https://vijayender.github.com/initial-commit.html" rel="alternate"></link><published>2017-08-21T16:04:00+05:30</published><updated>2017-08-21T16:04:00+05:30</updated><author><name>Vijayender</name></author><id>tag:vijayender.github.com,2017-08-21:/initial-commit.html</id><summary type="html">&lt;p&gt;git commit -a -m 'Initial Commit'&lt;br&gt;
+.&lt;br&gt;
+.&lt;br&gt;
+.&lt;br&gt;
+Rolling!&lt;/p&gt;</summary><content type="html">&lt;p&gt;git commit -a -m 'Initial Commit'&lt;br&gt;
+.&lt;br&gt;
+.&lt;br&gt;
+.&lt;br&gt;
+Rolling!&lt;/p&gt;</content></entry></feed>
