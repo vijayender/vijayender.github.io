@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Vijayender</title><link href="https://vijayender.github.com/" rel="alternate"></link><link href="https://vijayender.github.com/feeds/all.atom.xml" rel="self"></link><id>https://vijayender.github.com/</id><updated>2017-08-21T16:04:00+05:30</updated><entry><title>Bookmarks</title><link href="https://vijayender.github.com/bookmarks.html" rel="alternate"></link><published>2017-08-21T16:04:00+05:30</published><updated>2017-08-21T16:04:00+05:30</updated><author><name>Vijayender</name></author><id>tag:vijayender.github.com,2017-08-21:/bookmarks.html</id><summary type="html">&lt;h2&gt;Computer stats&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.internetlivestats.com/"&gt;Internet Stats&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.internetlivestats.com://gist.github.com/jboner/2841832"&gt;Latency&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://gist.github.com/jboner/2841832"&gt;Latency&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Computer stats&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.internetlivestats.com/"&gt;Internet Stats&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.internetlivestats.com://gist.github.com/jboner/2841832"&gt;Latency&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://gist.github.com/jboner/2841832"&gt;Latency&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content></entry><entry><title>Initial Commit</title><link href="https://vijayender.github.com/initial-commit.html" rel="alternate"></link><published>2017-08-21T16:04:00+05:30</published><updated>2017-08-21T16:04:00+05:30</updated><author><name>Vijayender</name></author><id>tag:vijayender.github.com,2017-08-21:/initial-commit.html</id><summary type="html">&lt;p&gt;git commit -a -m 'Initial Commit'&lt;br&gt;
 .&lt;br&gt;
 .&lt;br&gt;
